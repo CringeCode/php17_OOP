@@ -4,7 +4,6 @@ abstract class Vehicle
     public function beep()
     {
         echo 'beep';
-
     }
     public function drive()
     {
